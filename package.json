@@ -49,7 +49,7 @@
   },
   "homepage": "https://vittominacori.github.io/erc1363-payable-token",
   "dependencies": {
-    "@openzeppelin/contracts": "4.8.0"
+    "@openzeppelin/contracts": "4.9.5"
   },
   "devDependencies": {
     "@nomiclabs/hardhat-ganache": "^2.0.1",
